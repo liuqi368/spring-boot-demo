@@ -1,0 +1,32 @@
+2019-05-27 10:01:46 [main] INFO  c.e.d.c.LambdaControllerTest : 
+ Starting LambdaControllerTest on DESKTOP-SU5RU57 with PID 648 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-27 10:01:46 [main] DEBUG c.e.d.c.LambdaControllerTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-27 10:01:47 [main] INFO  c.e.d.c.LambdaControllerTest : 
+ The following profiles are active: dev 
+2019-05-27 10:02:06 [main] INFO  c.e.d.c.LambdaControllerTest : 
+ Started LambdaControllerTest in 22.782 seconds (JVM running for 28.702) 
+2019-05-27 10:08:03 [main] INFO  c.e.d.c.LambdaControllerTest : 
+ Starting LambdaControllerTest on DESKTOP-SU5RU57 with PID 11920 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-27 10:08:03 [main] DEBUG c.e.d.c.LambdaControllerTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-27 10:08:03 [main] INFO  c.e.d.c.LambdaControllerTest : 
+ The following profiles are active: dev 
+2019-05-27 10:08:20 [main] INFO  c.e.d.c.LambdaControllerTest : 
+ Started LambdaControllerTest in 19.171 seconds (JVM running for 23.323) 
+2019-05-27 11:04:24 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 15952 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-27 11:04:24 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-27 11:04:24 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-27 11:04:41 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 21.373 seconds (JVM running for 23.503) 
+2019-05-27 17:22:14 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 10948 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-27 17:22:14 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-27 17:22:14 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-27 17:22:31 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 21.686 seconds (JVM running for 23.803) 

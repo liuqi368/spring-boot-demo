@@ -1,0 +1,8 @@
+2019-05-07 09:00:42 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 5464 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-07 09:00:43 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-07 09:00:43 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-07 09:00:52 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 11.619 seconds (JVM running for 13.317) 

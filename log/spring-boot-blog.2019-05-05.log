@@ -1,0 +1,166 @@
+2019-05-05 09:04:33 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 16484 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:04:33 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:04:33 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:04:40 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 8.607 seconds (JVM running for 10.823) 
+2019-05-05 09:22:27 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-05 09:22:27 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-05 09:22:27 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-05 09:22:27 [http-nio-8089-exec-1] DEBUG c.example.controller.UserController : 
+ The method is ending-------------debug 
+2019-05-05 09:22:27 [http-nio-8089-exec-1] INFO  c.example.controller.UserController : 
+ The method is ending-------------info 
+2019-05-05 09:27:17 [http-nio-8089-exec-3] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-05 09:27:17 [http-nio-8089-exec-3] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-05 09:27:17 [http-nio-8089-exec-3] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-05 09:27:17 [http-nio-8089-exec-3] DEBUG c.example.controller.UserController : 
+ The method is ending-------------debug 
+2019-05-05 09:27:17 [http-nio-8089-exec-3] INFO  c.example.controller.UserController : 
+ The method is ending-------------info 
+2019-05-05 09:29:01 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12380 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:29:01 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:29:01 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:29:09 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 9.536 seconds (JVM running for 10.692) 
+2019-05-05 09:29:13 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-05 09:29:13 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-05 09:29:13 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-05 09:29:13 [http-nio-8089-exec-1] DEBUG c.example.controller.UserController : 
+ The method is ending-------------debug 
+2019-05-05 09:29:13 [http-nio-8089-exec-1] INFO  c.example.controller.UserController : 
+ The method is ending-------------info 
+2019-05-05 09:31:39 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 19692 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:31:39 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:31:39 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:31:44 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 6.398 seconds (JVM running for 7.396) 
+2019-05-05 09:31:48 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-05 09:31:48 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-05 09:31:48 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-05 09:38:27 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 6772 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:38:27 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:38:27 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:38:33 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 8.08 seconds (JVM running for 12.652) 
+2019-05-05 09:42:35 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 18636 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:42:35 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:42:35 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:42:43 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 9.29 seconds (JVM running for 11.008) 
+2019-05-05 09:42:49 [http-nio-8089-exec-2] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.NullPointerException 
+2019-05-05 09:43:58 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8656 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:43:58 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:43:58 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:44:07 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 10.594 seconds (JVM running for 11.787) 
+2019-05-05 09:44:29 [http-nio-8089-exec-1] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.NullPointerException 
+2019-05-05 09:45:18 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 7964 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:45:18 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:45:18 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:45:24 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 8.298 seconds (JVM running for 9.765) 
+2019-05-05 09:45:32 [http-nio-8089-exec-1] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.RuntimeException: 就是今天的错误信息没有打印 
+2019-05-05 09:47:36 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 20408 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:47:36 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:47:36 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:47:46 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 11.694 seconds (JVM running for 12.962) 
+2019-05-05 09:48:34 [http-nio-8089-exec-1] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.NullPointerException 
+2019-05-05 09:49:37 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 19616 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 09:49:37 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 09:49:37 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 09:49:44 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 8.136 seconds (JVM running for 9.928) 
+2019-05-05 09:49:48 [http-nio-8089-exec-1] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.RuntimeException: 就是今天的错误信息没有打印 
+2019-05-05 10:00:52 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 10944 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 10:00:52 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 10:00:52 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 10:00:59 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 9.185 seconds (JVM running for 10.587) 
+2019-05-05 10:01:08 [http-nio-8089-exec-2] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.RuntimeException: 返回map为空 
+2019-05-05 10:32:02 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 8860 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 10:32:02 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 10:32:02 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-05 10:32:09 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Started DemoApplicationTests in 7.753 seconds (JVM running for 9.737) 
+2019-05-05 10:49:49 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 3320 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 10:49:49 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 10:49:49 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-05 10:50:01 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Started DemoApplicationTests in 13.582 seconds (JVM running for 17.353) 
+2019-05-05 10:50:38 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 20548 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 10:50:38 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 10:50:38 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-05 10:50:46 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Started DemoApplicationTests in 9.872 seconds (JVM running for 11.884) 
+2019-05-05 11:12:06 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 15936 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-05 11:12:06 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-05 11:12:06 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-05 11:12:12 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 7.668 seconds (JVM running for 8.803) 
+2019-05-05 14:29:46 [http-nio-8089-exec-2] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-05 14:29:46 [http-nio-8089-exec-2] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-05 14:29:46 [http-nio-8089-exec-2] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 

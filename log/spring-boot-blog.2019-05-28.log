@@ -1,0 +1,202 @@
+2019-05-28 09:03:03 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 23148 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 09:03:03 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 09:03:03 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 09:03:15 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.278 seconds (JVM running for 17.052) 
+2019-05-28 09:10:54 [http-nio-8088-exec-2] ERROR c.e.e.GlobalExceptionHandler : 
+ org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'userController': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!) 
+2019-05-28 09:10:55 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 23148 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 09:10:55 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 09:10:55 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 09:10:58 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 3.183 seconds (JVM running for 480.653) 
+2019-05-28 09:20:14 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 21112 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 09:20:14 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 09:20:14 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 09:20:35 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 23.211 seconds (JVM running for 25.433) 
+2019-05-28 09:21:02 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 21112 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 09:21:02 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 09:21:02 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 09:21:13 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 10.952 seconds (JVM running for 63.056) 
+2019-05-28 09:27:13 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 21112 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 09:27:13 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 09:27:13 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 09:27:16 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 2.985 seconds (JVM running for 426.046) 
+2019-05-28 09:28:25 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 21112 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 09:28:25 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 09:28:25 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 09:28:31 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 6.519 seconds (JVM running for 501.527) 
+2019-05-28 09:28:46 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 21112 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 09:28:46 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 09:28:46 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 09:28:48 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 2.308 seconds (JVM running for 518.535) 
+2019-05-28 09:42:41 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 21112 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 09:42:41 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 09:42:41 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 09:42:49 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 8.39 seconds (JVM running for 1359.288) 
+2019-05-28 10:11:10 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 11552 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 10:11:10 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 10:11:10 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 10:11:23 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 16.305 seconds (JVM running for 19.169) 
+2019-05-28 10:29:04 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 19656 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 10:29:04 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 10:29:04 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 10:29:21 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 20.147 seconds (JVM running for 22.267) 
+2019-05-28 10:30:41 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 19656 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 10:30:41 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 10:30:41 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 10:30:47 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 6.593 seconds (JVM running for 108.097) 
+2019-05-28 10:31:24 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 23420 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 10:31:24 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 10:31:24 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 10:31:35 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 13.086 seconds (JVM running for 14.734) 
+2019-05-28 10:41:32 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8828 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 10:41:32 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 10:41:32 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 10:41:45 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.653 seconds (JVM running for 18.243) 
+2019-05-28 15:13:21 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8828 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 15:13:21 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 15:13:21 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 15:13:27 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 6.439 seconds (JVM running for 16320.222) 
+2019-05-28 15:13:30 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8828 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 15:13:30 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 15:13:30 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 15:13:35 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 5.336 seconds (JVM running for 16328.342) 
+2019-05-28 15:13:59 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8828 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 15:13:59 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 15:13:59 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 15:14:01 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 1.969 seconds (JVM running for 16354.023) 
+2019-05-28 15:48:55 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8828 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 15:48:55 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 15:48:55 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 15:49:06 [main] INFO  c.e.d.controller.NewControllerTest : 
+ Starting NewControllerTest on DESKTOP-SU5RU57 with PID 18136 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 15:49:06 [main] DEBUG c.e.d.controller.NewControllerTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 15:49:06 [main] INFO  c.e.d.controller.NewControllerTest : 
+ The following profiles are active: dev 
+2019-05-28 15:49:08 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 13.004 seconds (JVM running for 18460.966) 
+2019-05-28 15:49:20 [main] INFO  c.e.d.controller.NewControllerTest : 
+ Started NewControllerTest in 18.566 seconds (JVM running for 23.717) 
+2019-05-28 15:50:12 [main] INFO  c.e.d.controller.NewControllerTest : 
+ Starting NewControllerTest on DESKTOP-SU5RU57 with PID 23252 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 15:50:12 [main] DEBUG c.e.d.controller.NewControllerTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 15:50:12 [main] INFO  c.e.d.controller.NewControllerTest : 
+ The following profiles are active: dev 
+2019-05-28 15:50:28 [main] INFO  c.e.d.controller.NewControllerTest : 
+ Started NewControllerTest in 18.604 seconds (JVM running for 22.547) 
+2019-05-28 15:51:15 [main] INFO  c.e.d.controller.NewControllerTest : 
+ Starting NewControllerTest on DESKTOP-SU5RU57 with PID 13820 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 15:51:15 [main] DEBUG c.e.d.controller.NewControllerTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 15:51:15 [main] INFO  c.e.d.controller.NewControllerTest : 
+ The following profiles are active: dev 
+2019-05-28 15:51:34 [main] INFO  c.e.d.controller.NewControllerTest : 
+ Started NewControllerTest in 22.705 seconds (JVM running for 27.126) 
+2019-05-28 17:44:38 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8828 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 17:44:38 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 17:44:38 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 17:44:40 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 2.201 seconds (JVM running for 25393.114) 
+2019-05-28 20:59:15 [main] INFO  c.e.d.controller.NewControllerTest : 
+ Starting NewControllerTest on DESKTOP-SU5RU57 with PID 23172 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 20:59:15 [main] DEBUG c.e.d.controller.NewControllerTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 20:59:15 [main] INFO  c.e.d.controller.NewControllerTest : 
+ The following profiles are active: dev 
+2019-05-28 20:59:34 [main] INFO  c.e.d.controller.NewControllerTest : 
+ Started NewControllerTest in 22.138 seconds (JVM running for 26.086) 
+2019-05-28 20:59:45 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 22296 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 20:59:45 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 20:59:45 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 20:59:58 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.069 seconds (JVM running for 16.676) 
+2019-05-28 21:06:47 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 4044 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 21:06:47 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 21:06:47 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 21:07:00 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.805 seconds (JVM running for 17.872) 
+2019-05-28 21:24:12 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 4044 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-28 21:24:12 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-28 21:24:12 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-28 21:24:18 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 6.429 seconds (JVM running for 1055.895) 

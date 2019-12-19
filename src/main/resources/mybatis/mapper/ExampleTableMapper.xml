@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.dao.ExampleTableMapper" >
+  <resultMap id="BaseResultMap" type="com.example.model.ExampleTable" >
+    <id column="id" property="id" jdbcType="INTEGER" />
+    <result column="name" property="name" jdbcType="VARCHAR" />
+    <result column="position" property="position" jdbcType="VARCHAR" />
+    <result column="office" property="office" jdbcType="VARCHAR" />
+    <result column="age" property="age" jdbcType="INTEGER" />
+    <result column="start_date" property="startDate" jdbcType="TIMESTAMP" />
+    <result column="salary" property="salary" jdbcType="DECIMAL" />
+  </resultMap>
+
+  <sql id="Base_Column_List" >
+    id, name, position, office, age, start_date, salary
+  </sql>
+
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="Integer" >
+    select
+    <include refid="Base_Column_List" />
+    from example_table
+    where
+      id = #{id,jdbcType=INTEGER}
+  </select>
+  <select id="queryLists" resultMap="BaseResultMap" parameterType="ExampleTable" >
+    <![CDATA[select]]>
+    <include refid="Base_Column_List" />
+    <![CDATA[from example_table]]>
+    <where>
+      <if test="id != null">
+        id = #{id,jdbcType=INTEGER}
+      </if>
+    </where>
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="Integer" >
+    delete from example_table
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="ExampleTable" >
+    insert into example_table (id, name, position, 
+      office, age, start_date, 
+      salary)
+    values (#{id,jdbcType=INTEGER}, #{name,jdbcType=VARCHAR}, #{position,jdbcType=VARCHAR}, 
+      #{office,jdbcType=VARCHAR}, #{age,jdbcType=INTEGER}, #{startDate,jdbcType=TIMESTAMP}, 
+      #{salary,jdbcType=DECIMAL})
+  </insert>
+  <insert id="insertSelective" parameterType="ExampleTable" >
+    insert into example_table
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="name != null" >
+        name,
+      </if>
+      <if test="position != null" >
+        position,
+      </if>
+      <if test="office != null" >
+        office,
+      </if>
+      <if test="age != null" >
+        age,
+      </if>
+      <if test="startDate != null" >
+        start_date,
+      </if>
+      <if test="salary != null" >
+        salary,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=INTEGER},
+      </if>
+      <if test="name != null" >
+        #{name,jdbcType=VARCHAR},
+      </if>
+      <if test="position != null" >
+        #{position,jdbcType=VARCHAR},
+      </if>
+      <if test="office != null" >
+        #{office,jdbcType=VARCHAR},
+      </if>
+      <if test="age != null" >
+        #{age,jdbcType=INTEGER},
+      </if>
+      <if test="startDate != null" >
+        #{startDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="salary != null" >
+        #{salary,jdbcType=DECIMAL},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="ExampleTable" >
+    update example_table
+    <set >
+      <if test="name != null" >
+        name = #{name,jdbcType=VARCHAR},
+      </if>
+      <if test="position != null" >
+        position = #{position,jdbcType=VARCHAR},
+      </if>
+      <if test="office != null" >
+        office = #{office,jdbcType=VARCHAR},
+      </if>
+      <if test="age != null" >
+        age = #{age,jdbcType=INTEGER},
+      </if>
+      <if test="startDate != null" >
+        start_date = #{startDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="salary != null" >
+        salary = #{salary,jdbcType=DECIMAL},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="ExampleTable" >
+    update example_table
+    set name = #{name,jdbcType=VARCHAR},
+      position = #{position,jdbcType=VARCHAR},
+      office = #{office,jdbcType=VARCHAR},
+      age = #{age,jdbcType=INTEGER},
+      start_date = #{startDate,jdbcType=TIMESTAMP},
+      salary = #{salary,jdbcType=DECIMAL}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+</mapper>

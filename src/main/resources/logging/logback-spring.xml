@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<!--<include resource="org/springframework/boot/logging/logback/base.xml"/> &lt;!&ndash; logback 提供的基本配置 &ndash;&gt;-->
+
+	<!-- 控制台 -->
+	<appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>[%d{MM/dd HH:mm:ss.SSSSSS} %-5level] - [%logger{1}:%L][%thread] %msg%n</pattern>   <!-- 输出格式 -->
+			<charset>UTF-8</charset> <!-- 解决中文乱码问题 -->
+		</encoder>
+	</appender>
+
+	<!-- 记录到文件 (每天一个文件) -->
+	<appender name="dailyRollingFileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<File>log/spring-boot-blog.log</File>   <!-- 最新的log文件名 -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<FileNamePattern>log/spring-boot-blog.%d{yyyy-MM-dd}.log</FileNamePattern>  <!-- 历史文件名 -->
+			<maxHistory>30</maxHistory> <!-- 保留 30 天的日志 -->
+		</rollingPolicy>
+		<encoder>
+			<Pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{35} : %n %msg %n</Pattern>
+			<charset>UTF-8</charset>  <!--解决中文乱码问题-->
+		</encoder>
+	</appender>
+
+	<!-- 开发环境，测试环境 -->
+	<springProfile name="dev,test">
+		<!-- 将上面两个 appender 关联到我们的项目 -->
+		<logger name="com.equip.mgr" level="DEBUG" additivity="false"> <!-- name 是项目包名，为了方便调试，输出 DEBUG 级别及其以上的log -->
+			<appender-ref ref="console"/>
+			<appender-ref ref="dailyRollingFileAppender" />
+		</logger>
+
+	</springProfile>
+	<!-- 生产环境 -->
+	<springProfile name="product">
+		<logger name="com.equip.mgr" level="INFO" additivity="false" >
+			<appender-ref ref="console"/>
+		</logger>
+	</springProfile>
+
+	<!-- 其他框架的日志输出 -->
+	<logger name="org.springframework" level="INFO"/>
+	<logger name="com.zaxxer.hikari" level="INFO"/>
+	<logger name="org.apache" level="INFO"/>
+	<!--<logger name="org.springframework.web" level="INFO"/>   &lt;!&ndash; spring web 包下的 logger, 只输出 INFO 级别的 &ndash;&gt;-->
+	<!--<logger name="org.springframework.boot.web.filter" level="INFO"/>-->
+	<root level="INFO">
+		<appender-ref ref="console" />
+	</root>
+</configuration>

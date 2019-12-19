@@ -1,0 +1,590 @@
+2019-05-30 10:08:04 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 16024 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:08:04 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:08:04 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:08:29 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 27.506 seconds (JVM running for 30.774) 
+2019-05-30 10:11:55 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 4304 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:11:55 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:11:55 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:12:13 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 19.431 seconds (JVM running for 21.474) 
+2019-05-30 10:22:47 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 11896 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:22:47 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:22:47 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:23:01 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.74 seconds (JVM running for 17.574) 
+2019-05-30 10:26:10 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 18828 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:26:10 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:26:10 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:26:27 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 19.704 seconds (JVM running for 21.829) 
+2019-05-30 10:28:36 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 9264 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:28:36 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:28:36 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:28:50 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 16.172 seconds (JVM running for 18.183) 
+2019-05-30 10:31:57 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 23280 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:31:57 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:31:57 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:32:10 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 13.974 seconds (JVM running for 16.085) 
+2019-05-30 10:34:01 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 9428 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:34:01 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:34:01 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:34:12 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 13.164 seconds (JVM running for 14.678) 
+2019-05-30 10:34:18 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 10:34:53 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 10:34:53 [http-nio-8088-exec-7] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 10:43:56 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 4276 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:43:56 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:43:56 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:44:10 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.643 seconds (JVM running for 17.706) 
+2019-05-30 10:44:15 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口22，推送内容:xxxxx123xxxx 
+2019-05-30 10:48:51 [http-nio-8088-exec-4] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口21，推送内容:ccccccccccc 
+2019-05-30 10:50:17 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 15204 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:50:17 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:50:17 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:50:29 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.143 seconds (JVM running for 19.422) 
+2019-05-30 10:50:45 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 10:50:54 [http-nio-8088-exec-5] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口22，推送内容:xxxxx123xxxx 
+2019-05-30 10:50:54 [http-nio-8088-exec-5] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.NullPointerException 
+2019-05-30 10:50:59 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口22，推送内容:xxxxx123xxxx 
+2019-05-30 10:50:59 [http-nio-8088-exec-6] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.NullPointerException 
+2019-05-30 10:51:17 [http-nio-8088-exec-9] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口21，推送内容:ccccccccccc 
+2019-05-30 10:51:17 [http-nio-8088-exec-9] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.NullPointerException 
+2019-05-30 10:51:56 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 5616 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:51:57 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:51:57 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:52:10 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.164 seconds (JVM running for 16.926) 
+2019-05-30 10:52:33 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口21，推送内容:ccccccccccc 
+2019-05-30 10:52:36 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口22，推送内容:xxxxx123xxxx 
+2019-05-30 10:52:41 [http-nio-8088-exec-3] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 10:55:50 [http-nio-8088-exec-7] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:xxxxx123xxxx 
+2019-05-30 10:55:50 [http-nio-8088-exec-7] ERROR c.e.e.GlobalExceptionHandler : 
+ java.lang.NullPointerException 
+2019-05-30 10:56:17 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8308 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 10:56:17 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 10:56:17 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 10:56:30 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.311 seconds (JVM running for 15.782) 
+2019-05-30 10:57:01 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:ccccccccccc 
+2019-05-30 10:57:06 [http-nio-8088-exec-5] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:xxxxx123xxxx 
+2019-05-30 10:57:10 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 11:01:05 [localhost-startStop-2] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 11:01:06 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8308 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 11:01:06 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 11:01:06 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 11:01:08 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 2.391 seconds (JVM running for 293.454) 
+2019-05-30 13:40:27 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8308 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 13:40:27 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 13:40:27 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 13:40:29 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 2.59 seconds (JVM running for 9854.927) 
+2019-05-30 13:52:12 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 13:52:59 [http-nio-8088-exec-9] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 13:52:59 [http-nio-8088-exec-10] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 13:53:20 [http-nio-8088-exec-4] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为2 
+2019-05-30 13:53:39 [http-nio-8088-exec-8] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为3 
+2019-05-30 13:54:17 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为2 
+2019-05-30 13:55:09 [http-nio-8088-exec-3] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为3 
+2019-05-30 13:56:59 [http-nio-8088-exec-5] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为2 
+2019-05-30 13:56:59 [http-nio-8088-exec-7] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为1 
+2019-05-30 13:56:59 [http-nio-8088-exec-8] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 13:58:47 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8308 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 13:58:47 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 13:58:47 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 13:58:51 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 3.34 seconds (JVM running for 10956.192) 
+2019-05-30 14:10:07 [http-nio-8088-exec-4] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 14:10:22 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 11388 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:10:22 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:10:22 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:10:35 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.355 seconds (JVM running for 16.013) 
+2019-05-30 14:10:41 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 14:11:26 [http-nio-8088-exec-3] INFO  com.example.ws.WebSocketServer : 
+ 收到来自窗口null的信息:123334 
+2019-05-30 14:13:12 [http-nio-8088-exec-8] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 14:13:12 [http-nio-8088-exec-7] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:null,当前在线人数为1 
+2019-05-30 14:13:16 [http-nio-8088-exec-9] INFO  com.example.ws.WebSocketServer : 
+ 收到来自窗口null的信息:234 
+2019-05-30 14:14:34 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 14:16:00 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 11388 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:16:00 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:16:00 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:16:10 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 15428 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:16:10 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:16:10 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:16:24 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.939 seconds (JVM running for 16.518) 
+2019-05-30 14:16:54 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:17:00 [http-nio-8088-exec-3] INFO  com.example.ws.WebSocketServer : 
+ 收到来自窗口20的信息:82555555 
+2019-05-30 14:20:04 [http-nio-8088-exec-7] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 14:20:04 [http-nio-8088-exec-8] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:20:09 [http-nio-8088-exec-9] INFO  com.example.ws.WebSocketServer : 
+ 收到来自窗口20的信息:4852 
+2019-05-30 14:20:26 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 18340 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:20:26 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:20:26 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:20:38 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.247 seconds (JVM running for 15.948) 
+2019-05-30 14:22:47 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 2696 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:22:47 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:22:47 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:22:59 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.133 seconds (JVM running for 16.038) 
+2019-05-30 14:23:08 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:24:08 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 5352 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:24:08 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:24:08 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:24:20 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.013 seconds (JVM running for 17.229) 
+2019-05-30 14:24:30 [http-nio-8088-exec-3] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:24:35 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 14:24:35 [http-nio-8088-exec-8] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:24:38 [http-nio-8088-exec-10] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 14:24:38 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:24:56 [http-nio-8088-exec-7] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为2 
+2019-05-30 14:35:18 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 23172 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:35:18 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:35:18 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:35:32 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 16.128 seconds (JVM running for 17.834) 
+2019-05-30 14:35:46 [http-nio-8088-exec-3] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:35:51 [http-nio-8088-exec-7] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为2 
+2019-05-30 14:36:09 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口21，推送内容:ccccccccccc 
+2019-05-30 14:36:09 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为1 
+2019-05-30 14:37:09 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 11844 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:37:09 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:37:09 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:37:21 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 13.813 seconds (JVM running for 15.63) 
+2019-05-30 14:37:28 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口21，推送内容:ccccccccccc 
+2019-05-30 14:37:29 [http-nio-8088-exec-4] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:37:58 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为2 
+2019-05-30 14:39:14 [http-nio-8088-exec-10] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为1 
+2019-05-30 14:39:14 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 14:42:40 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 13852 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:42:40 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:42:40 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:42:53 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.703 seconds (JVM running for 16.529) 
+2019-05-30 14:43:22 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:null 
+2019-05-30 14:43:48 [http-nio-8088-exec-4] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:45:37 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 15456 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:45:37 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:45:37 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:45:49 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 13.463 seconds (JVM running for 15.024) 
+2019-05-30 14:46:19 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:null 
+2019-05-30 14:46:19 [http-nio-8088-exec-4] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:46:31 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:xxxxx123xxxx 
+2019-05-30 14:46:44 [http-nio-8088-exec-8] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 14:46:44 [http-nio-8088-exec-10] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:48:03 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 10440 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:48:03 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:48:03 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:48:15 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 13.502 seconds (JVM running for 15.234) 
+2019-05-30 14:48:27 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:xxxxx123xxxx 
+2019-05-30 14:48:28 [http-nio-8088-exec-4] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:48:58 [http-nio-8088-exec-5] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:xxxxx123xxxx 
+2019-05-30 14:48:58 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 14:48:58 [http-nio-8088-exec-8] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:49:38 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 18388 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:49:38 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:49:38 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:49:52 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.731 seconds (JVM running for 17.438) 
+2019-05-30 14:50:14 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:xxxxx123xxxx 
+2019-05-30 14:50:15 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 14:51:09 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12740 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 14:51:09 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 14:51:09 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 14:51:22 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.482 seconds (JVM running for 15.986) 
+2019-05-30 14:51:31 [http-nio-8088-exec-2] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:xxxxx123xxxx 
+2019-05-30 14:51:33 [http-nio-8088-exec-3] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 15:32:42 [http-nio-8088-exec-5] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 18:12:09 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12740 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:12:09 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:12:09 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:12:14 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 5.556 seconds (JVM running for 12068.091) 
+2019-05-30 18:12:21 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12740 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:12:21 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:12:21 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:12:24 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 2.997 seconds (JVM running for 12077.652) 
+2019-05-30 18:13:03 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12740 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:13:03 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:13:03 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:13:06 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 3.449 seconds (JVM running for 12119.96) 
+2019-05-30 18:13:46 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12740 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:13:46 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:13:46 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:13:49 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 2.791 seconds (JVM running for 12162.541) 
+2019-05-30 18:14:08 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12740 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:14:08 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:14:08 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:14:14 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 5.865 seconds (JVM running for 12187.592) 
+2019-05-30 18:14:29 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12740 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:14:29 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:14:29 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:14:36 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 6.405 seconds (JVM running for 12209.655) 
+2019-05-30 18:14:39 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 12740 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:14:39 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:14:39 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:14:45 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 5.656 seconds (JVM running for 12218.682) 
+2019-05-30 18:16:33 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 4448 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:16:33 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:16:33 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:17:16 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 22688 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:17:16 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:17:16 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:19:15 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 21448 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:19:15 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:19:15 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:21:17 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 20604 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:21:17 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:21:17 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:21:39 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 6352 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:21:39 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:21:39 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:21:59 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 2808 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:21:59 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:21:59 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:22:12 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 16.073 seconds (JVM running for 19.745) 
+2019-05-30 18:23:35 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 7916 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:23:35 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:23:35 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:23:48 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 15.5 seconds (JVM running for 17.972) 
+2019-05-30 18:33:22 [main] INFO  com.example.demo.config.randomTest : 
+ Starting randomTest on DESKTOP-SU5RU57 with PID 11040 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:33:22 [main] DEBUG com.example.demo.config.randomTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:33:22 [main] INFO  com.example.demo.config.randomTest : 
+ The following profiles are active: dev 
+2019-05-30 18:35:13 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 19540 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:35:13 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:35:13 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:35:32 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 21.02 seconds (JVM running for 24.789) 
+2019-05-30 18:35:52 [main] INFO  com.example.demo.config.randomTest : 
+ Starting randomTest on DESKTOP-SU5RU57 with PID 2480 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:35:52 [main] DEBUG com.example.demo.config.randomTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:35:52 [main] INFO  com.example.demo.config.randomTest : 
+ The following profiles are active: dev 
+2019-05-30 18:43:51 [main] INFO  com.example.demo.config.randomTest : 
+ Starting randomTest on DESKTOP-SU5RU57 with PID 6160 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:43:51 [main] DEBUG com.example.demo.config.randomTest : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:43:51 [main] INFO  com.example.demo.config.randomTest : 
+ The following profiles are active: dev 
+2019-05-30 18:44:06 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 13368 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:44:06 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:44:06 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:44:26 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 22.817 seconds (JVM running for 26.798) 
+2019-05-30 18:46:23 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 13368 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:46:23 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:46:23 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:46:25 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 2.411 seconds (JVM running for 145.753) 
+2019-05-30 18:48:33 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 9868 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 18:48:33 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 18:48:33 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 18:48:47 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 16.773 seconds (JVM running for 19.339) 
+2019-05-30 19:27:24 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 21540 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 19:27:24 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 19:27:24 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 19:27:37 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.49 seconds (JVM running for 16.705) 
+2019-05-30 19:34:19 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 6792 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 19:34:19 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 19:34:19 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 19:34:33 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 16.645 seconds (JVM running for 19.535) 
+2019-05-30 19:35:39 [http-nio-8088-exec-1] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 19:36:34 [localhost-startStop-2] INFO  com.example.ws.WebSocketServer : 
+ 有一连接关闭！当前在线人数为0 
+2019-05-30 19:36:34 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 6792 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 19:36:34 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 19:36:34 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 19:36:38 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 3.33 seconds (JVM running for 144.573) 
+2019-05-30 20:44:58 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 14532 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 20:44:58 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 20:44:58 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 20:45:22 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 27.955 seconds (JVM running for 31.238) 
+2019-05-30 20:45:57 [http-nio-8088-exec-3] INFO  com.example.ws.WebSocketServer : 
+ 推送消息到窗口20，推送内容:xxxxx123xxxx 
+2019-05-30 20:45:59 [http-nio-8088-exec-6] INFO  com.example.ws.WebSocketServer : 
+ 有新窗口开始监听:20,当前在线人数为1 
+2019-05-30 20:48:35 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 3272 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 20:48:35 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 20:48:35 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 20:48:53 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 19.322 seconds (JVM running for 21.446) 
+2019-05-30 20:52:51 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 6048 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 20:52:51 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 20:52:51 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 20:53:09 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 20.799 seconds (JVM running for 24.109) 
+2019-05-30 20:53:44 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 2856 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 20:53:44 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 20:53:44 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 20:54:02 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 19.578 seconds (JVM running for 21.978) 
+2019-05-30 20:55:44 [restartedMain] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 4524 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-30 20:55:44 [restartedMain] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-30 20:55:44 [restartedMain] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-30 20:56:01 [restartedMain] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 18.583 seconds (JVM running for 20.658) 

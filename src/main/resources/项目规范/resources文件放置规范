@@ -1,0 +1,13 @@
+一、项目最好是创建application.yml文件
+    application.yml文件和application.properties
+    yml文件的好处，天然的树状结构，一目了然，目录结构清晰。
+
+    3个文件分别是开发环境，生产环境，测试环境。
+    放在resources根目录下面一个总的application.yml,其余3个文件放置在config目录下面
+
+二、根目录下面个人放置了一个开心的佛祖符号文件banner.txt
+    根目录下面放置一个logback-spring.xml自定义的日志配置文件。
+
+三、创建一个mybatis文件夹，里面放置mybatis-config.xml配置文件，mapper文件夹下的文件作为数据库的执行文件
+
+四、在resource目录下创建 static、templates 目录分别用于存放静态资源和静态页面。存放在static目录下的静态资源不用配置静态访问路径。

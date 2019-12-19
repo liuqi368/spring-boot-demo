@@ -1,0 +1,138 @@
+2019-05-06 09:31:28 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 7540 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 09:31:28 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 09:31:28 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-06 09:31:35 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 9.391 seconds (JVM running for 11.862) 
+2019-05-06 10:58:31 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 11168 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 10:58:31 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 10:58:31 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-06 10:58:42 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 12.302 seconds (JVM running for 13.552) 
+2019-05-06 11:07:34 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 1668 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 11:07:34 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 11:07:34 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-06 11:07:50 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Started DemoApplicationTests in 19.67 seconds (JVM running for 24.919) 
+2019-05-06 11:10:36 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 18464 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 11:10:36 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 11:10:36 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-06 11:10:52 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Started DemoApplicationTests in 19.105 seconds (JVM running for 22.674) 
+2019-05-06 11:12:38 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 10716 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 11:12:38 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 11:12:38 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-06 11:12:52 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Started DemoApplicationTests in 16.058 seconds (JVM running for 19.096) 
+2019-05-06 11:21:53 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 6096 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 11:21:53 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 11:21:53 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-06 11:22:04 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 11.864 seconds (JVM running for 13.107) 
+2019-05-06 11:22:34 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 21316 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 11:22:34 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 11:22:34 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-06 11:22:57 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Started DemoApplicationTests in 25.338 seconds (JVM running for 28.403) 
+2019-05-06 11:31:15 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 7436 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 11:31:15 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 11:31:15 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-06 11:31:37 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Started DemoApplicationTests in 26.989 seconds (JVM running for 32.668) 
+2019-05-06 11:38:47 [main] INFO  c.example.demo.DemoApplicationTests : 
+ Starting DemoApplicationTests on DESKTOP-SU5RU57 with PID 18676 (started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 11:38:48 [main] DEBUG c.example.demo.DemoApplicationTests : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 11:38:48 [main] INFO  c.example.demo.DemoApplicationTests : 
+ The following profiles are active: dev 
+2019-05-06 11:38:58 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 7904 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 11:38:58 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 11:38:58 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-06 11:39:08 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 10.75 seconds (JVM running for 12.297) 
+2019-05-06 15:12:39 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 9200 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 15:12:39 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 15:12:39 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-06 15:12:47 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 36.918 seconds (JVM running for 38.407) 
+2019-05-06 15:13:21 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 18280 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 15:13:21 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 15:13:21 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-06 15:13:29 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 9.749 seconds (JVM running for 12.28) 
+2019-05-06 17:09:07 [main] INFO  com.example.DemoApplication : 
+ Starting DemoApplication on DESKTOP-SU5RU57 with PID 8888 (D:\ZWSJ\spring-boot-demo\target\classes started by asus in D:\ZWSJ\spring-boot-demo) 
+2019-05-06 17:09:07 [main] DEBUG com.example.DemoApplication : 
+ Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2019-05-06 17:09:07 [main] INFO  com.example.DemoApplication : 
+ The following profiles are active: dev 
+2019-05-06 17:09:20 [main] INFO  com.example.DemoApplication : 
+ Started DemoApplication in 14.628 seconds (JVM running for 16.158) 
+2019-05-06 17:09:55 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-06 17:09:55 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-06 17:09:55 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-06 17:10:20 [http-nio-8089-exec-5] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-06 17:10:20 [http-nio-8089-exec-5] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-06 17:10:20 [http-nio-8089-exec-5] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-06 17:10:33 [http-nio-8089-exec-8] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-06 17:10:33 [http-nio-8089-exec-8] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-06 17:10:33 [http-nio-8089-exec-8] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-06 17:10:47 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-06 17:10:47 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-06 17:10:47 [http-nio-8089-exec-1] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-06 17:12:35 [http-nio-8089-exec-3] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-06 17:12:35 [http-nio-8089-exec-3] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-06 17:12:35 [http-nio-8089-exec-3] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
+2019-05-06 18:02:22 [http-nio-8089-exec-6] DEBUG com.example.dao.UserDao.usersList : 
+ ==>  Preparing: select * from sys_user WHERE login_name = ?  
+2019-05-06 18:02:22 [http-nio-8089-exec-6] DEBUG com.example.dao.UserDao.usersList : 
+ ==> Parameters: test1(String) 
+2019-05-06 18:02:22 [http-nio-8089-exec-6] DEBUG com.example.dao.UserDao.usersList : 
+ <==      Total: 1 
